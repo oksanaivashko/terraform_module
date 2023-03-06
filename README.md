@@ -22,3 +22,4 @@ A Terraform module is a set of Terraform configuration files in a single directo
 
 # Local and remote modules
 Modules can either be loaded from the local filesystem, or a remote source. Terraform supports a variety of remote sources, including the Terraform Registry, most version control systems, HTTP URLs, and Terraform Cloud or Terraform Enterprise private module registries.
+![Module](https://user-images.githubusercontent.com/108756145/223229708-d2d2ed96-b77e-46ee-b5cd-492e5d42cb0b.jpeg)
